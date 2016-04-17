@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SqlRegistration</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reg">Register</string>
+    <string name="title_activity_log">Login</string>
+    <string name="title_secret_msg">Your notes</string>
+    <string name="secret">The secret behing this secret message is that I love playing Sherlock to the ones I love!\n\n Have a nice day!\n\nBest wishes \nHimanshu Singh</string>
+    <string name="title_activity_add_note">Add a note :p</string>
+</resources>
